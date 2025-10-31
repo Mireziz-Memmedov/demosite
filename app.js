@@ -7,7 +7,7 @@ $(document).ready(function () {
                 let data = await responce.json();
                 console.log(data);
             }
-            mynews();
+            mynews()
         }
     })
 });
